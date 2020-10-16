@@ -1,5 +1,5 @@
 
-This Personal Portfolio template was  forked from https://github.com/varadbhogayata/varadbhogayata.github.io, released under the MIT License. 
+This Personal Portfolio template was  forked from https://github.com/varadbhogayata/varadbhogayata.github.io
 
 To view a live example, **[click here](https://aifuwaroland.github.io/)**
 
